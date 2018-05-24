@@ -1,0 +1,105 @@
+*{
+    padding: 0px;
+    margins: 0px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+#excel{
+    color: #1082BB;
+}
+
+#submit{
+    padding: 0px 100px 10px 0px;
+}
+
+#logo{
+    position: relative;
+    height: 50px;
+    width: 50px;
+    margin-left: -55px;
+}
+
+.navbar-brand{
+    margin-top: -50px;
+
+}
+
+.panel-footer{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#buttons{
+    text-align: center;
+}
+ table{
+    margin: 0px auto;
+}
+
+table.tr.th{
+    width: 30%;
+}
+
+table.tr.td{
+    width: 70%;
+}
+
+#add{
+    margin-bottom: 7px;
+}
+
+form{
+    margin: auto;
+    align-items: center;
+}
+
+#id{
+    margin-left: 10px;
+}
+
+/*Profile View*/
+#button-1{
+    margin-left: 103px;
+}
+
+/*Transactions List View*/
+table{
+    width: 80%;
+}
+#excel-form{
+   display: inline-block;     
+}
+
+/*Admin - Add Modal Template*/
+#add-address{
+    margin-bottom: 5px;
+}
+
+/*Make Transacion View*/
+#buttons2{
+    margin-left: 390px;
+}
+
+/*Login View*/
+.well{
+    height: 301px;
+}
+
+/*Footer*/
+footer {
+    clear: both;
+}
+
+/*Admin - Add Modal Template*/
+#add-address{
+    margin-bottom: 5px;
+}
+
+/*Admin - Edit Modal Template*/
+#radio{
+    margin-left: 100px;
+}
